@@ -1,6 +1,6 @@
-title: "standard_python_environment"
+title: "standard-python-environment"
 description: "Python environment built with Docker Compose"
-baseurl: "/standard_python_environment"
+baseurl: "/standard-python-environment"
 url: "https://europanite.github.io"
 theme: minima
 markdown: kramdown
